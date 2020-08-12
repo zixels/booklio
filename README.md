@@ -1,2 +1,1 @@
-# booklio
-Some old codes from Booklio project
+Codes from the Booklio project that might come in handy someday.
